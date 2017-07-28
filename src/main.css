@@ -1,0 +1,140 @@
+body {
+    background: black;   
+}
+
+#instrument {
+    height: 116px;
+    width: 812px;
+    padding-right: 10px;
+    padding-top: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float:left;
+}
+
+#c {
+    background: #3e181b;
+    border: 3px solid #db1d2d;
+}
+
+#c:active {
+	background: #db1d2d;
+}
+
+#c:hover {
+    background:#661920;
+    cursor: pointer;
+    height: 250px;
+    bottom: 75px;
+    position: relative;
+}
+
+#d {
+    background: #422018;
+    border: 3px solid #f0421c;
+}
+
+#d:active {
+    background: #f0421c;
+}
+
+#d:hover {
+	background:  #6e2819;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+}
+
+#e {
+    background: #45391b;
+    border: 3px solid #fec02d;
+}
+
+#e:active {
+    background: #fec02d;
+}
+
+#e:hover {
+	background:  #735b20;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+}
+
+#f {
+    background: #193c29;
+    border: 3px solid #20d071;
+}
+
+#f:active {
+    background: #20d071;
+}
+
+#f:hover {
+	background:  #1b613b;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+}
+
+#g {
+    background: #18323e;
+    border: 3px solid #1a9ddb;
+}
+
+#g:active {
+    background: #1a9ddb;
+}
+
+#g:hover {
+	background:  #184d65;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+}
+
+#a {
+    background: #331f35;
+    border: 3px solid #a13fad;
+}
+
+#a:active {
+    background: #a13fad;
+}
+
+#a:hover {
+	background:  #4e2753;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+} 
+
+#b {
+    background: #43293d;
+    border: 3px solid #f26fd4;
+}
+
+#b:active {
+    background: #f26fd4;
+}
+
+#b:hover {
+	background:  #6f3a62;
+	cursor: pointer;
+	height: 250px;
+	bottom: 75px;
+	position: relative;
+}
